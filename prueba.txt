@@ -1,0 +1,7 @@
+Este es un trabajo de prueba
+
+para probar el gurdado de las versiones 
+
+mediante el comando git en la terminal
+
+comencemos
