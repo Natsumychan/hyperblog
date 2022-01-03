@@ -4,4 +4,4 @@ para probar el guardado de las versiones,
 
 mediante el comando git en la terminal, y los diferentes argumentos para tener un repositorio en git
 
-comencemos
+empezando con os cambios hechos en este archivo y otros mediante el uso de VS code.
